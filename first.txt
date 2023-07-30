@@ -1,0 +1,6 @@
+<html>
+<h1>food</h1>
+<p>what is your favourite food</p>
+<button>briyani</button>
+<button>briyani</button>
+</html>
